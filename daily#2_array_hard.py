@@ -23,6 +23,8 @@ array1 = [1, 2, 3, 4, 5]
 array2 = [3, 2, 1]
 print(product_arr(array2))
 
+
+
 def product_arr_no_division(array):
     new = []
     i = 0
